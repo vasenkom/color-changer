@@ -30,3 +30,17 @@
     margin: 13px;
     float: right;
 }
+.color-teller {
+    text-align: center;
+    background-color: black;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    color: white;
+    margin-top: 150px;
+    font-size: 30px;
+}
+.color-teller p {
+    padding: 15px;
+}
