@@ -22,7 +22,7 @@
     font-style: normal;
     cursor: context-menu;
 }
-button {
+.menu-container button {
     font-size: 18px;
     border: none;
     background-color: transparent;
