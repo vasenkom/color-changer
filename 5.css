@@ -22,10 +22,14 @@
     font-style: normal;
     cursor: context-menu;
 }
-.menu-container button {
+.menu-container ul li {
+    list-style-type: none;
+}
+.menu-container a {
+    text-decoration: none;
+    color: black;
     font-size: 18px;
     border: none;
-    background-color: transparent;
     cursor: pointer;
     margin: 13px;
     float: right;
