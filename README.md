@@ -15,7 +15,7 @@ This repository contains a simple web application for changing the background co
 
 ## Usage
 
-To use the Color Changer application, simply open the `index.html` file in a web browser. You will be presented with two buttons: "Simple Mode" and "Hex Mode". Clicking on either button will change the background color accordingly.
+To use the Color Changer application, simply open the `5.html` file in a web browser.
 
 ## File Structure
 
