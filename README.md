@@ -15,7 +15,7 @@ This repository contains a simple web application for changing the background co
 
 ## Usage
 
-To use the Color Changer application, simply open the `5.html` file in a web browser.
+To use the Color Changer application, simply open the `index.html` file in a web browser.
 
 ## File Structure
 
