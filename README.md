@@ -19,6 +19,6 @@ To use the Color Changer application, simply open the `5.html` file in a web bro
 
 ## File Structure
 
-- `5.html`: HTML file containing the structure of the webpage.
+- `index.html`: HTML file containing the structure of the webpage.
 - `5.css`: CSS file for styling the webpage.
 - `5.js`: JavaScript file containing the logic for changing the background color based on the selected mode.
