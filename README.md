@@ -2,6 +2,10 @@
 
 This repository contains a simple web application for changing the background color of a webpage. The application offers two modes: Simple and Hex. In Simple mode, colors are chosen from a predefined array, while in Hex mode, colors are generated randomly using hexadecimal values.
 
+## Demo
+
+You can view a live demo of the Color-changer application [here](https://raw.githack.com/vasenkom/ToDoList/main/Index.html).
+
 ## Features
 
 - **Simple Mode:** In this mode, the background color changes randomly from a predefined array of colors.
