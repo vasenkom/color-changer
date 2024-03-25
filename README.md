@@ -4,7 +4,7 @@ This repository contains a simple web application for changing the background co
 
 ## Demo
 
-You can view a live demo of the Color-changer application [here](https://raw.githack.com/vasenkom/ToDoList/main/Index.html).
+You can view a live demo of the Color-changer application [here](https://raw.githack.com/vasenkom/color-changer/main/index.html).
 
 ## Features
 
